@@ -9,6 +9,10 @@ const astroSchema = new mongoose.Schema({
         type: String,
         trim: true
     },
+    copyright: {
+        type: String,
+        trim: true
+    },
     hdurl: {
         type: String,
         trim: true

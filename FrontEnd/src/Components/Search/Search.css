@@ -1,0 +1,18 @@
+.container2{
+    text-align: center;
+}
+
+.Input{
+    font-size: x-large;
+    margin-right: 10px;
+    background-image: linear-gradient(#cfdefa, rgb(36, 156, 161));
+    border-radius: 10px;
+}
+
+.Button{
+    font-size: larger;
+    margin: auto;
+    width: 100px;
+    background-image: linear-gradient(#cfdefa, rgb(36, 156, 161));
+    border-radius: 10px;
+}

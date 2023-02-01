@@ -8,18 +8,19 @@ const API_KEY = process.env.API_KEY
 
 //===============================>API<==============================//
 const astroCreate = async (req, res) => {
+    res.setHeader('Access-Control-Allow-Origin', '*')
     try {
         //geting date from the query param.
         const date = req.query.date
 
         //getting the present date using moment library
-        const now = moment().format("YYYY-MM-DD")
+        const now = "2020-10-02" //moment().format("YYYY-MM-DD")
 
         const dateData = date || now
 
         //checking in the DATABASE is Data with this date is present or not.
-        const dbData = await astroModel.findOne({ date: dateData })
-        if (dbData) {
+        const dbData = await astroModel.find({ date: dateData })
+        if (dbData.length != 0) {
             return res.status(200).send({ data: dbData })
         }
 

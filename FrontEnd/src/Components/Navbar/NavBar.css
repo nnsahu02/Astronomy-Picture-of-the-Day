@@ -1,0 +1,38 @@
+.nav{
+    text-align: center;
+}
+.container {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-image: linear-gradient(#8aa7de, rgb(30, 128, 131));
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+li {
+    margin: 0 1rem;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.liclass {
+    text-decoration: none;
+    color: rgb(12, 60, 60);
+    text-align: center;
+}
+
+.apod{
+    text-decoration: none;
+    color: rgb(72, 30, 6);
+}
