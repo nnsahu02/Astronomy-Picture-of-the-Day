@@ -44,3 +44,37 @@ eg :- "Astronomy-Picture-of-the-Day/FrontEnd "
 
 => Inside "src" we hav "componets" directory that contains all the components.
 
+
+
+### WEBSITE IMAGE
+
+## HOME
+
+![img1](https://user-images.githubusercontent.com/114048704/216422813-edccfcab-0319-42df-8f95-d944d34ef349.png)
+
+![image1](https://user-images.githubusercontent.com/114048704/216422874-6b631ffe-de14-4dec-9d71-2ce0383ade43.png)
+
+
+## SEARCH
+
+![src1](https://user-images.githubusercontent.com/114048704/216423572-987c6e4a-b53a-42c1-a5d9-2da80b3083ca.png)
+
+![src2](https://user-images.githubusercontent.com/114048704/216423634-5e812c13-a72a-46f2-a265-1de97926ad8b.png)
+
+
+## ABOUT
+
+![img 3](https://user-images.githubusercontent.com/114048704/216423931-dff1137f-9ceb-45dc-b57e-7531101ccdba.png)
+
+![img5](https://user-images.githubusercontent.com/114048704/216424019-f2180c24-be4d-429c-a9d1-82fda4fc2ef9.png)
+
+## CONTACT
+
+![img6](https://user-images.githubusercontent.com/114048704/216424154-a048ca73-8b80-4298-81ee-1ac6cdc74c6a.png)
+
+
+
+
+
+
+
