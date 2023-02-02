@@ -2,6 +2,8 @@
 
 ## "Astronomy Picture of the Day" Project Using MERN stack.
 
+*******CREATE TWO TERMINAL AND RUN FRONTEND ON ONE TERMINAL AND BACKEND ON ANOTHER TERMINAL AS SHOWN IN BELOW IMAGE.******
+
 ### BACKEND
 
 => for starting the backend go inside the backend directory 
