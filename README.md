@@ -9,6 +9,8 @@ eg :- "Astronomy-Picture-of-the-Day/BackEnd "
 
 => start the backend by "npm start" command
 
+=> DEMO start backend
+![backend](https://user-images.githubusercontent.com/114048704/216420268-4899c313-7d02-4ec1-a171-6b714166083e.png)
 
 ## ABOUT BACKEND PART
 => In the backend part there a "src" directory that contains all the backend code.
@@ -30,6 +32,9 @@ eg :- "Astronomy-Picture-of-the-Day/BackEnd "
 eg :- "Astronomy-Picture-of-the-Day/FrontEnd " 
 
 => start the backend by "npm start" command
+
+=> DEMO start frontend
+![frontend](https://user-images.githubusercontent.com/114048704/216420342-77156308-3454-4048-95e2-cc1656f7a13f.png)
 
 ## ABOUT FRONTEND PART
 
