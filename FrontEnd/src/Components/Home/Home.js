@@ -21,12 +21,12 @@ const Home = () => {
                 getData.map((x) => {
                     return (
                         <div key={x.date}>
-                            <h1>Astronomy Picture of the Day</h1>
-                            <img className='tab-pane active' src={x.url} alt="imag" style={{ width: "1000px" }} />
-                            <h1 >{x.title}</h1>
-                            <h3>Illustration Credit & Copyright : {x.copyright}</h3>
-                            <h2>Date : {x.date}</h2>
-                            <div>Explanation : {x.explanation}</div>
+                            <h1 className='H1'>Astronomy Picture of the Day</h1>
+                            <img className='tab-pane active' src={x.url} alt="imag" style={{ width: "100%" }} />
+                            <h1 className='ttt'>{x.title}</h1>
+                            <h3 className='ttt'>Illustration Credit & Copyright : {x.copyright}</h3>
+                            <h2 className='ttt'>Date : {x.date}</h2>
+                            <div className='ttt'>Explanation : {x.explanation}</div>
                         </div>
                     )
                 })

@@ -14,10 +14,10 @@ const Footer = () => {
                     future in space exploration, scientific
                     discovery and aeronautics research
                 </p>
-                <a href="https://www.nasa.gov/" >
-                    <p>NASA</p>
+                <a href="https://www.nasa.gov/" target="_blank">
+                    <p className="tag">NASA</p>
                 </a>
-                <a href="https://www.nasa.gov/about/highlights/HP_Privacy.html" >
+                <a href="https://www.nasa.gov/about/highlights/HP_Privacy.html" target="_blank" >
                     <p className="tag">Privacy & Policy</p>
                 </a>
             </div>

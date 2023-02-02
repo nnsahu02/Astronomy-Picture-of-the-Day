@@ -1,3 +1,16 @@
 .container1{
    text-align: center;
 }
+
+.H1{
+   color: white;
+   font-size: 60px;
+   font-weight: bolder;
+   font-variant: small-caps;
+   text-shadow: 4px 4px 0px #000, 0px 0px 0px #fff;
+}
+
+.ttt{
+   color: rgb(133, 216, 207);
+}
+

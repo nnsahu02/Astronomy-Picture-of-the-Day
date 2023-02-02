@@ -5,10 +5,11 @@ import Search from './Components/Search/Search';
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer.js';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import './App.css'
 
 function App() {
   return (
-    <div >
+    <div className='App'>
       <BrowserRouter>
         <Navbar />
         <Routes>

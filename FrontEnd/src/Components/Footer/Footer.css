@@ -2,16 +2,15 @@
     height: 200px;
     border: #3a7283;
     box-sizing: border-box;
-    background-image: linear-gradient(#cfdefa, rgb(30, 128, 131));
+    background-color: gray;
     text-align: center;
  flex: auto;
 }
 .tag{
     color: #000;
-    text-decoration: none;
-    list-style: none;  
+    list-style: none; 
+    text-decoration: none; 
 }
 .button{
-   
     size: 20px;
 }
