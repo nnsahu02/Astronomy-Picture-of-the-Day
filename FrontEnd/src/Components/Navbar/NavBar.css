@@ -3,7 +3,7 @@
 }
 
 .container {
-    width: 100%;
+    width: 96%;
     height: 25px;
     display: flex;
     justify-content: space-between;
@@ -45,7 +45,7 @@ li {
 
 .apod {
     font-size: 60px;
-    margin-right: 200px;
+    margin-right: 100px;
     font-weight: bolder;
     text-decoration: none;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
