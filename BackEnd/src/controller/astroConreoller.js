@@ -43,7 +43,7 @@ const astroCreate = async (req, res) => {
         } catch (err) {
             //if any error occurs it will by default get the data from the hardcoded Date for the database.
             if (err.name == 'AxiosError') {
-                let defaultD = '2019-10-02'
+                let defaultD = '2018-02-10'
                 const DBData = await astroModel.find({ date: defaultD })
 
                 return res.status(200).send({ data: DBData })

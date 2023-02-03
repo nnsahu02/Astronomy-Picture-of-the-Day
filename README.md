@@ -4,6 +4,8 @@
 
 *******CREATE TWO TERMINAL AND RUN FRONTEND ON ONE TERMINAL AND BACKEND ON ANOTHER TERMINAL AS SHOWN IN BELOW IMAGE.******
 
+*******FRONTEND IS RUNNING ON THE PORT "3000"(localhost:3000) AND BACKEND IS RUNING ON THE PORT "3001"(localhost:3001)*****
+
 ### BACKEND
 
 => for starting the backend go inside the backend directory 

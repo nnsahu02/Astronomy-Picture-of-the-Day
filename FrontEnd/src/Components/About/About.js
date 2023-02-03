@@ -5,9 +5,9 @@ function About() {
     return (
             <div >
                 <img src="https://media.istockphoto.com/id/501057143/photo/tomorrow-creeping-steadily-over-the-horizon.jpg?s=612x612&w=0&k=20&c=OB0cdZG7WaV7SWNNAv7JRRHmjjn7zBI0QmsscWYeDj0=" alt="John" style={{ width: "100%", height: "700px" }} />
-                <h3>APOD WEBSITE</h3>
-                <h2 className='ttt'>SPACE</h2>
-                <p className='ttt'>space exploration, investigation, by means of crewed and uncrewed spacecraft, of the reaches of the universe beyond Earth’s atmosphere and the use of the information so gained to increase knowledge of the cosmos and benefit humanity. A complete list of all crewed spaceflights, with details on each mission’s accomplishments and crew, is available in the section Chronology of crewed spaceflights.
+                <h3>AstroPIC WEBSITE</h3>
+                <h2 >SPACE</h2>
+                <h4>space exploration, investigation, by means of crewed and uncrewed spacecraft, of the reaches of the universe beyond Earth’s atmosphere and the use of the information so gained to increase knowledge of the cosmos and benefit humanity. A complete list of all crewed spaceflights, with details on each mission’s accomplishments and crew, is available in the section Chronology of crewed spaceflights.
                     Eagle Nebula
                     Eagle Nebula
                     Apollo 11
@@ -16,7 +16,7 @@ function About() {
                     Discover the importance of Sputnik, Yuri Gagarin, Apollo 11, the Hubble Space Telescope, and SpaceShipOne
                     Discover the importance of Sputnik, Yuri Gagarin, Apollo 11, the Hubble Space Telescope, and SpaceShipOneSee all videos for this article
                     Achieving spaceflight enabled humans to begin to explore the solar system and the rest of the universe, to understand the many objects and phenomena that are better observed from a space perspective, and to use for human benefit the resources and attributes of the space environment. All of these activities—discovery, scientific understanding, and the application of that understanding to serve human purposes—are elements of space exploration. (For a general discussion of spacecraft, launch considerations, flight trajectories, and navigation, docking, and recovery procedures, see spaceflight.)
-                </p>
+                </h4>
             </div>
     )
 }
