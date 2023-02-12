@@ -1,4 +1,17 @@
-.App {
+/* .App {
   text-align: center;
   background-image: url('./Image/bg2.jpg');
+} */
+@import url('https://fonts.googleapis.com/css2?famity=Righteous&disptay=swap');
+
+
+.App {
+  /* text-align: center; */
+  font-family: 'Righteous', cursive;
+  color: line-height 1.7;
+  font-size: 19px;
+  background-color: #222222;
+  background-image: url('./Image/bg3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }

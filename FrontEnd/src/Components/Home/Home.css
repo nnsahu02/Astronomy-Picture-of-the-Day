@@ -1,16 +1,77 @@
-.container1{
-   text-align: center;
-}
+ 
+ @import url('https://fonts.googleapis.com/css?family=Fredericka the Great');
+ 
+ .HomeTitle {
+   font-family: 'Fredericka the Great';
+    color: rgb(207, 199, 199);
+    font-weight: bolder;
+    font-variant: small-caps;
+    text-shadow: 4px 4px 0px #000, 0px 0px 0px #fff;
+    text-align: center;
+    margin-left: 200px;
+    font-size: 40px;
+    margin: 20px 0;
+ }
 
-.H1{
-   color: white;
-   font-size: 60px;
-   font-weight: bolder;
-   font-variant: small-caps;
-   text-shadow: 4px 4px 0px #000, 0px 0px 0px #fff;
-}
 
-.ttt{
-   color: rgb(133, 216, 207);
-}
+ .img {
+    height: 852px;
+    width: 780px;
+    border-radius: 17px;
+    box-shadow: 2px 2px 10px #131212;
+    margin-left: 8px;
+ }
 
+ .photo {
+    height: 852px;
+    width: 800px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #131212;
+ }
+
+ .description {
+    width: 780px;
+    height: 852px;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: rgb(179, 174, 174);
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px #131212;
+    margin-top: 20px;
+    float: right;
+    position: absolute;
+    top: 123px;
+    margin-left: 797px;
+    text-align: center;
+ }
+
+ .ttt1 {
+   font-family: 'Fredericka the Great';
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px 0;
+    margin-bottom: 30px;
+ }
+
+ .ttt2 {
+    font-size: 20px;
+    margin: 10px 0;
+    margin-top: 80px;
+ }
+
+ .ttt3 {
+    font-size: 18px;
+    margin: 10px 0;
+ }
+
+ .ttt4 {
+    font-size: 22px;
+    margin: 10px 0;
+    margin-top: 50px;
+    text-align: justify;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 10px #131212;
+    border-radius: 10px;
+    background-color: gray;
+    padding: 10px;
+ }

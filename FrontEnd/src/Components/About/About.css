@@ -1,0 +1,13 @@
+.About{
+    color: white;
+    text-align: center;
+}
+
+.note{
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: rgb(179, 174, 174);
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px #131212;
+    color: black;
+}

@@ -1,5 +1,5 @@
-.footer{
-    height: 200px;
+/* .footer{
+    height: 210px;
     border: #3a7283;
     box-sizing: border-box;
     background-color: gray;
@@ -13,4 +13,39 @@
 }
 .button{
     size: 20px;
+} */
+
+.footer {
+    margin-top: 50px;
+    position: static;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    background-color: #333;
+    color: #fff;
+    position: static;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.footer p {
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.footer .tag {
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: center;
+    color: #fff;
+    text-decoration: underline;
+    cursor: pointer;
 }
