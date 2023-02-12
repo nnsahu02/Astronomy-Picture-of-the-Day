@@ -52,27 +52,21 @@ eg :- "Astronomy-Picture-of-the-Day/FrontEnd "
 
 ## HOME
 
-![img1](https://user-images.githubusercontent.com/114048704/216422813-edccfcab-0319-42df-8f95-d944d34ef349.png)
-
-![image1](https://user-images.githubusercontent.com/114048704/216422874-6b631ffe-de14-4dec-9d71-2ce0383ade43.png)
-
+![home1](https://user-images.githubusercontent.com/114048704/218305186-742fc7d6-e71c-4646-beae-981ffaca7e46.png)
 
 ## SEARCH
 
-![src1](https://user-images.githubusercontent.com/114048704/216423572-987c6e4a-b53a-42c1-a5d9-2da80b3083ca.png)
+![search1](https://user-images.githubusercontent.com/114048704/218305221-6cd11f3f-622b-4b52-882b-1b931f60bc5c.png)
 
-![src2](https://user-images.githubusercontent.com/114048704/216423634-5e812c13-a72a-46f2-a265-1de97926ad8b.png)
-
+![search2](https://user-images.githubusercontent.com/114048704/218305227-9754fdc3-12c6-4d06-a3a9-15eac3605b9e.png)
 
 ## ABOUT
 
-![img 3](https://user-images.githubusercontent.com/114048704/216423931-dff1137f-9ceb-45dc-b57e-7531101ccdba.png)
-
-![img5](https://user-images.githubusercontent.com/114048704/216424019-f2180c24-be4d-429c-a9d1-82fda4fc2ef9.png)
+![about](https://user-images.githubusercontent.com/114048704/218305249-55cf7d44-332f-48ed-860f-4ebddb1228a5.png)
 
 ## CONTACT
 
-![img6](https://user-images.githubusercontent.com/114048704/216424154-a048ca73-8b80-4298-81ee-1ac6cdc74c6a.png)
+![contact](https://user-images.githubusercontent.com/114048704/218305264-103328ba-f4ca-4c8b-9ad2-cf1755fbc648.png)
 
 
 
