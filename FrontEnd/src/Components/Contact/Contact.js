@@ -8,7 +8,7 @@ function Contact() {
     return (
         <div >
             <div className='ab'>
-                <img src={image1} alt="image" style={{ width: "350px", marginTop: "60px" }} />
+                <img src={image1} alt="" style={{ width: "350px", marginTop: "60px" }} />
                 <h3 className='P'>Phone : 8328915901</h3>
                 <h3 className='P'>email : jyotibissoyikhusbu2571@gmail.com</h3>
                 <a className='L' href="https://www.linkedin.com/in/jyoti-bissoyi-a30bb0242/" target="_blank">LinkedIn</a>
@@ -16,7 +16,7 @@ function Contact() {
             </div>
 
             <div className='abc'>
-                <img src={image} alt="image" style={{ width: "350px", marginTop: "60px" }} />
+                <img src={image} alt="" style={{ width: "350px", marginTop: "60px" }} />
                 <h3 className='P'>Phone : 9556609926</h3>
                 <h3 className='P'>email : nnsahu2022@gmail.com</h3>
                 <a className='L' href="https://www.linkedin.com/in/nrusinghanath-sahu-b373a8243/" target="_blank">LinkedIn</a>

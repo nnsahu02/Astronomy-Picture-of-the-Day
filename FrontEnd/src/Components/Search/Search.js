@@ -14,14 +14,14 @@ const Search = () => {
             const data = await response.json()
             setGetData(data.data)
 
-        } else if (Date != "") {
+        } else if (Date !== "") {
             alert("Please select a date between January 1, 2015 and today.")
         }
     }
 
     useEffect(() => {
         getSearch()
-    }, [])
+    }, [Date])
     return (
         <div className="container2">
             <h1 className='HomeTitle'>Select date</h1>
