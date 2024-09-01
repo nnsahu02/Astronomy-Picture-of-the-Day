@@ -4,7 +4,7 @@ import './Home.css'
 const Home = () => {
     const [getData, setGetData] = useState([])
     const getHome = async () => {
-        const response = await fetch('http://localhost:3001/apod')
+        const response = await fetch('https://astronomy-picture-of-the-day-1.onrender.com/apod')
         const data = await response.json()
         //console.log(data.data)
         setGetData(data.data)

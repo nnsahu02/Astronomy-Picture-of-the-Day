@@ -10,7 +10,7 @@ const Search = () => {
         const now = moment().format("YYYY-MM-DD")
 
         if (Date >= "2015-01-01" && Date <= now) {
-            const response = await fetch(`http://localhost:3001/apod?date=${Date}`)
+            const response = await fetch(`https://astronomy-picture-of-the-day-1.onrender.com/apod?date=${Date}`)
             const data = await response.json()
             setGetData(data.data)
 
@@ -21,7 +21,7 @@ const Search = () => {
 
     useEffect(() => {
         getSearch()
-    }, [Date])
+    }, [])
     return (
         <div className="container2">
             <h1 className='HomeTitle'>Select date</h1>
