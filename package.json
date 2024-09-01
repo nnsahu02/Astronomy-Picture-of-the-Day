@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node BackEnd/src/index.js",
     "dev": "nodemon BackEnd/src/index.js",
-    "build": "echo 'No build step required'"
+    "build": "npm install"
   },
   "author": "",
   "license": "ISC",
