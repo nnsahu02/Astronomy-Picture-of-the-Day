@@ -1,0 +1,22 @@
+{
+  "name": "astronomy-picture-of-the-day",
+  "version": "1.0.0",
+  "description": "*******CREATE TWO TERMINAL AND RUN FRONTEND ON ONE TERMINAL AND BACKEND ON ANOTHER TERMINAL AS SHOWN IN BELOW IMAGE.******",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node BackEnd/src/index.js",
+    "dev": "nodemon BackEnd/src/index.js",
+    "build": "echo 'No build step required'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.6.0",
+    "nodemon": "^3.1.4"
+  }
+}
